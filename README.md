@@ -18,7 +18,7 @@ This project generates random monthly sales data for 12 months and performs key 
 
 ## 📂 Project Structure
 sales-data-analysis/
-![Sales Data Output]()
+![Salesanlysis program architecture (architecture.drawio)
 
 ## 📸 Screenshot
 Here’s how the program looks when executed:
