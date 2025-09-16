@@ -8,7 +8,7 @@ This project generates random monthly sales data for 12 months and performs key 
 ---
 
 ## ✨ Features
-✔️ Generates random sales data (range: 1000–10000)  
+✔️ work on given sales data 
 ✔️ Calculates **total yearly sales**  
 ✔️ Finds **average monthly sales**  
 ✔️ Identifies the **best month (highest sales)**  
@@ -25,4 +25,4 @@ sales-data-analysis/
 ## 📸 Screenshot
 Here’s how the program looks when executed:
 
-![Sales Data Output](Screenshot from 2025-09-16 17-34-19.png)
+![Sales Data Output](Screenshot.png)
