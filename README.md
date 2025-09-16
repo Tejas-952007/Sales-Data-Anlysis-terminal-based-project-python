@@ -18,9 +18,7 @@ This project generates random monthly sales data for 12 months and performs key 
 
 ## 📂 Project Structure
 sales-data-analysis/
-│── sales_analysis.py # Main Python script
-│── README.md # Project documentation
-│── screenshot.png # Example output (screenshot)
+![Sales Data Output]()
 
 ## 📸 Screenshot
 Here’s how the program looks when executed:
