@@ -25,4 +25,4 @@ sales-data-analysis/
 ## 📸 Screenshot
 Here’s how the program looks when executed:
 
-![Sales Data Output](Screenshot.png)
+![Sales Data Output](screenshot.png)
